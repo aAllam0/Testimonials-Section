@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: [Front-end Mentor](https://www.frontendmentor.io/solutions/responsive-section-using-css-grid-ZDSKvm61mC)
+- Live Site URL: (https://aallam0.github.io/Testimonials-Section)
 
 ### Author
 
